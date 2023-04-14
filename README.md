@@ -1,6 +1,8 @@
 # minewseeper-game
 A basic Minesweeper game played on a Tkinter window, with Python.
 
+Be sure to install Tkinter on your machine before running the game, or the console might return an  error (Check out how to install Tkinter on your OS).
+
 This game is a copy version of JimShapedCoding's tutorial posted by freeCodeCamp on YouTube: Python Game Development Project Using OOP – Minesweeper Tutorial (w/ Tkinter).
 
 The video series can be found at https://www.youtube.com/watch?v=OqbGRZx4xUc
